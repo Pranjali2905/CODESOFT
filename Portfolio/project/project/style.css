@@ -1,0 +1,202 @@
+body {
+    margin: 0;
+    background-color: #061C2B;
+    font-family: "Roboto",sans-serif;
+}
+
+.profile-pic {
+    width: 300px;
+    height:300px;
+    border-radius: 50%;
+    margin-right: 2rem;
+    margin-bottom: 5rem;
+    border: 5px solid #0F4C5C;
+    
+}
+
+header {
+    display:flex;
+    justify-content: space-between;
+    background: #061C2B;
+    
+}
+
+.logo {
+    color: white;
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    font-family: "Roboto" , sans-serif;
+}
+
+.logo h1 {
+    margin-top: 15rem;
+}
+
+nav a {
+    margin: 0 1rem;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.photo {
+    display: flex;
+    align-items: center;
+    padding: 2rem;
+    
+    flex-wrap: wrap;
+    
+}
+
+
+.text {
+        margin-top: -15%;
+        font-family: "Roboto" , sans-serif;
+        
+
+    
+        
+
+}
+
+
+.intro p {
+    font-size: 1.5rem;
+    color: #fff;
+   margin-right: 10%;
+    color: #FFA48B;
+   /* margin-top: 5rem;*/
+    
+}
+
+.name p1 {
+    font-size: 3rem;
+    color: #fff;
+    margin-top: -10rem;
+    
+
+    
+}
+
+.position {
+    font-weight: bold;
+    color: #00B3B0;
+    /*margin-top: 5rem;*/
+}
+
+.button1 {
+    display: inline-block;
+    margin: 1rem 1rem 0 0;
+    padding: 0.6rem 1.2rem;
+    border-radius:8px;
+    text-decoration: none;
+    font-weight: 500;
+    background-color: #061C2B ;
+    color: #fff;
+}
+
+.button2 {
+    background-color: #053d3c;
+    color: #fff;
+ border-radius: 5px;
+     display: inline-block;
+    /*margin: 5rem 5rem 0 0;*/
+    padding: 0.6rem 1.2rem;
+    text-decoration: none;
+    font-weight: 500;
+
+}
+
+.about {
+    padding: 2rem;
+   background-color: #09394E;
+    margin-top: 1rem;
+    border-radius: 10px;
+    color: #fff;
+}
+
+.about p2 {
+    color: #FFA48B;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+
+
+
+.projects {
+   /* display: flex;*/
+    gap:5rem;
+    flex-wrap: wrap;
+    margin-top: 1rem;
+ padding: 2rem;
+    margin-top: 1rem;
+    border-radius: 10px;
+    color: #fff;
+}
+
+.project-list {
+   display: flex;
+    gap:5rem;
+    flex-wrap: wrap;
+    margin-top: 1rem; 
+}
+
+.projects p3 {
+    font-size: 25px;
+    font-weight: bold;
+    color:#FFA48B;
+    
+}
+
+.project-card {
+    background-color: #06455D;
+    padding: 1rem;
+    border-radius: 10px;
+    width: 300px;
+}
+
+footer {
+    text-align: center;
+    padding: 2rem;
+    margin-top: 14rem;
+    color: #aaa;
+    font-size: 15px;
+    margin-left: 5rem;
+    
+}
+
+.email p{
+    color: #fff;
+    opacity: 0.7;
+}
+
+.email p:hover {
+     opacity: 1;
+    transform:scale(1.1);
+}
+
+.contacts i {
+    color: #fff;
+    opacity: 0.7;
+    padding: 7px;
+    font-size: 35px;
+    margin-top: 1rem;
+}
+
+.contacts i:hover {
+    opacity: 1;
+    transform:scale(1.1);
+}
+
+
+
+
+
+    
+
+
+    
+
+
+
